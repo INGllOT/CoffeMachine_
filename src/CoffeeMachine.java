@@ -90,10 +90,6 @@ public class CoffeeMachine {
             case"exit":
                 break;
 
-            default:
-                System.out.println("Something wrong !!!!!");
-                break;
-
         }
     }
     public void printInfo() {
